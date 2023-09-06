@@ -41,13 +41,30 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Exploring the World of Parasocial Game APK: Gameplay and Features
+
+This title would delve into the gameplay mechanics, features, and unique aspects of the game.",
+   "photo1":"https://iili.io/J9al4Cg.png"},
+  {"desc2":"Risks and Benefits of Downloading Parasocial Game APK
+
+This title would discuss the potential security risks associated with downloading APK files from unofficial sources and whether there are any benefits to doing so.",
+"photo2":"https://iili.io/J9alUj1.jpg"},
+  {"desc3":"Community and Reviews: What Players Are Saying About Parasocial Game APK
+
+Here, you can expect insights into the player community's feedback, reviews, and discussions related to the game.",
+"photo3":"https://iili.io/J9algZF.jpg"},
+  {"desc4":"Parasocial Game APK: A Niche or Trending Mobile Gaming Experience?
+
+This title explores whether the game is a niche title or if it has gained popularity and is considered a trending mobile gaming experience.",
+"photo4":"https://iili.io/J9al6Ga.jpg"},
+  {"desc5":"How to Safely Download and Install Parasocial Game APK
+
+If downloading the game outside of official app stores is recommended, this title would provide guidance on how to do so safely.",
+"photo5":"https://iili.io/J9als3v.jpg"},
+  {"descd":Inside the Development: The Makers of Parasocial Game APK
+
+This title would offer information about the development team behind the game, their goals, and their vision for the project."",
+"photod":"https://iili.io/J9alP6J.jpg"}
    ]
  
 }
